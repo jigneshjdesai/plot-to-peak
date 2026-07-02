@@ -18,14 +18,14 @@ window.JOBBER_CONFIG = {
      It looks like:
        https://clienthub.getjobber.com/client_hubs/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/public/client/login
      Paste the full URL between the quotes below. */
-  clientHubUrl: "<<PASTE_JOBBER_CLIENT_HUB_URL>>",
+  clientHubUrl: "https://clienthub.getjobber.com/client_hubs/5f338de3-6a9c-4917-bdbf-a373495065d7/login/new?source=share_login",
 
   /* (2) REQUEST FORM ID  -----------------------------------------------------
      The "clienthub_id" from your Jobber website request-form embed code.
      In Jobber: Settings → Request form  →  "Add request form to your website".
      Copy the value of  clienthub_id="..."  from the snippet Jobber shows you.
      (It is a long id like  1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d ) */
-  requestFormClientHubId: "<<PASTE_JOBBER_REQUEST_FORM_CLIENTHUB_ID>>",
+  requestFormClientHubId: "5f338de3-6a9c-4917-bdbf-a373495065d7",
 
   /* (3) OPTIONAL — full request form URL.
      Leave this as "" (empty) and it is built automatically from the id above.
