@@ -1,0 +1,6 @@
+# Never commit real secrets or tokens
+.env
+.env.*
+!.env.example
+.jobber-tokens.json
+node_modules/
