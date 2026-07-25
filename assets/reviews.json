@@ -2,7 +2,7 @@
   "_README": "Curated customer reviews shown on the website (scrolling banner + Reviews section). The entries below are EXAMPLES so you can see the layout — replace them with real customer reviews before launch. When a new review arrives by email from the site form, add an approved one here. Each review: name (string), rating (1-5 integer), text (string), location (optional string).",
   "reviews": [
     { "name": "Example — Sarah M.", "rating": 5, "text": "EXAMPLE (replace in assets/reviews.json): Showed up on time and my yard has never looked better. Booking an estimate was so easy.", "location": "Plano, TX" },
-    { "name": "Example — David R.", "rating": 5, "text": "EXAMPLE: Cleared our gutters and fixed two leaks in one visit. Fair price, no upsell. Highly recommend.", "location": "Frisco, TX" },
+    { "name": "Example — David R.", "rating": 5, "text": "EXAMPLE: Cleared our gutters and pressure-washed the driveway in one visit. Fair price, no upsell. Highly recommend.", "location": "Frisco, TX" },
     { "name": "Example — Priya N.", "rating": 4, "text": "EXAMPLE: Great handyman work — mounted our TV and hid all the wires. Will use again.", "location": "McKinney, TX" },
     { "name": "Example — Hotel GM, Comfort Stay", "rating": 5, "text": "EXAMPLE: Reliable turnover and grounds crew for our property. Keeps our guest scores up.", "location": "Dallas, TX" },
     { "name": "Example — Linda K.", "rating": 5, "text": "EXAMPLE: Pressure washed the driveway and sealed the patio. Looks brand new.", "location": "Allen, TX" }
